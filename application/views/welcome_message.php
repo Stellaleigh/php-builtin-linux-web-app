@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <iframe width="350px" height ="200px" class="embed-responsive-item" src="https://www.youtube.com/embed/ma6-56SC-20"></iframe>
 </div>  -->
    
-  <h2 class="display-3">Build, deploy and scale applications faster</h2>   
+  <h2 class="display-3">Build, deploy and scale web applications faster</h2>   
 <p class="lead">
     <a class="btn btn-primary btn-lg" href="https://azure.microsoft.com/en-us/community/events/crawl-walk-and-run-with-container-based-web-apps-using-azure/" role="button">Sign up for Webcast</a>
   </p>     
